@@ -1,0 +1,71 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< metal1 >>
+rect 1185 0 1231 315
+rect 53258 55724 53338 55951
+rect 39181 0 39364 924
+<< metal2 >>
+rect 38873 0 39133 277
+rect 50430 27479 50556 27666
+rect 51345 43094 52384 46398
+rect 429 51784 1170 55455
+rect 35652 0 35916 286
+rect 0 17076 650 17153
+rect 0 17275 650 17352
+rect 42031 0 42071 409
+rect 44716 0 44756 409
+rect 47456 0 47496 409
+rect 36148 0 36188 410
+rect 32913 0 32953 409
+rect 52008 0 52048 409
+rect 52104 0 52144 409
+rect 52206 0 52246 409
+rect 52308 0 52348 409
+<< metal4 >>
+rect 39591 43966 41113 44828
+<< labels >>
+rlabel metal2 s 38873 0 39133 277 4 vpb
+port 1 nsew
+rlabel metal4 s 39591 43966 41113 44828 4 Out
+port 2 nsew
+rlabel metal1 s 1185 0 1231 315 4 IBIAS
+port 3 nsew
+rlabel metal1 s 53258 55724 53338 55951 4 vneg
+port 4 nsew
+rlabel metal1 s 39181 0 39364 924 4 vpwr_core
+port 5 nsew
+rlabel metal2 s 50430 27479 50556 27666 4 vgnd
+port 6 nsew
+rlabel metal2 s 51345 43094 52384 46398 4 vgnd
+port 7 nsew
+rlabel metal2 s 429 51784 1170 55455 4 vpwr
+port 8 nsew
+rlabel metal2 s 35652 0 35916 286 4 vnb
+port 9 nsew
+rlabel metal2 s 0 17076 650 17153 4 INM
+port 10 nsew
+rlabel metal2 s 0 17275 650 17352 4 INP
+port 11 nsew
+rlabel metal2 s 42031 0 42071 409 4 offset_trim[0]
+port 12 nsew
+rlabel metal2 s 44716 0 44756 409 4 offset_trim[1]
+port 13 nsew
+rlabel metal2 s 47456 0 47496 409 4 offset_trim[2]
+port 14 nsew
+rlabel metal2 s 36148 0 36188 410 4 offset_trim[3]
+port 15 nsew
+rlabel metal2 s 32913 0 32953 409 4 offset_trim[4]
+port 16 nsew
+rlabel metal2 s 52008 0 52048 409 4 pd
+port 17 nsew
+rlabel metal2 s 52104 0 52144 409 4 enable_hv
+port 18 nsew
+rlabel metal2 s 52206 0 52246 409 4 pwr_modes[1]
+port 19 nsew
+rlabel metal2 s 52308 0 52348 409 4 pwr_modes[0]
+port 20 nsew
+<< properties >>
+string FIXED_BBOX 0 0 53338 56382
+<< end >>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="528" height="338" viewBox="0 0 528 338">
+<rect width="100%" height="100%" fill="white"/>
+<text x="264" y="22" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#111">CF_BUF_OUT</text>
+<rect x="159" y="48" width="210" height="218" fill="#f7f7f7" stroke="#222" stroke-width="1.5"/>
+<text x="264" y="162" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#333">CF_BUF_OUT</text>
+<line x1="159" y1="69" x2="141" y2="69" stroke="#222" stroke-width="1.25"/>
+<text x="135" y="73" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">IBIAS</text>
+<line x1="159" y1="91" x2="141" y2="91" stroke="#222" stroke-width="1.25"/>
+<text x="135" y="95" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">vneg</text>
+<line x1="159" y1="113" x2="141" y2="113" stroke="#222" stroke-width="1.25"/>
+<text x="135" y="117" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">vpwr_core</text>
+<line x1="159" y1="135" x2="141" y2="135" stroke="#222" stroke-width="1.25"/>
+<text x="135" y="139" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">INM</text>
+<line x1="159" y1="157" x2="141" y2="157" stroke="#222" stroke-width="1.25"/>
+<text x="135" y="161" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">INP</text>
+<line x1="159" y1="179" x2="141" y2="179" stroke="#222" stroke-width="1.25"/>
+<text x="135" y="183" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">offset_trim[4:0]</text>
+<line x1="159" y1="201" x2="141" y2="201" stroke="#222" stroke-width="1.25"/>
+<text x="135" y="205" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">pd</text>
+<line x1="159" y1="223" x2="141" y2="223" stroke="#222" stroke-width="1.25"/>
+<text x="135" y="227" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">enable_hv</text>
+<line x1="159" y1="245" x2="141" y2="245" stroke="#222" stroke-width="1.25"/>
+<text x="135" y="249" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">pwr_modes[1:0]</text>
+<line x1="369" y1="157" x2="387" y2="157" stroke="#222" stroke-width="1.25"/>
+<text x="393" y="161" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">Out</text>
+<line x1="171" y1="266" x2="171" y2="280" stroke="#222" stroke-width="1.25"/>
+<text x="171" y="294" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="10" fill="#111">vgnd</text>
+<line x1="357" y1="266" x2="357" y2="280" stroke="#222" stroke-width="1.25"/>
+<text x="357" y="294" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="10" fill="#111">vpwr</text>
+</svg>
